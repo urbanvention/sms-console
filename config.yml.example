@@ -1,0 +1,12 @@
+:webservice:
+  :url: 'http://soap.smscreator.de/send.asmx/SendSimpleSMS4'
+  :username: "Test"
+  :password: "Test"
+
+:default_user:
+  :name: Your Name
+  :number: "+4930110110112"
+  :ambigious_name: Jan
+  :not_existing_name: Ulululu
+  :without_mobile_phone: SomeGuy WithoutMobilephone
+  :birth_date: "16.01.2010"

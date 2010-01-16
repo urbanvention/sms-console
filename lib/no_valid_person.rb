@@ -1,0 +1,2 @@
+class NoValidPerson < Exception
+end

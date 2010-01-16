@@ -1,0 +1,2 @@
+class NoMobilePhoneNumber < Exception
+end
